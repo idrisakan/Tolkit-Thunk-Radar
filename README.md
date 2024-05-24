@@ -9,4 +9,4 @@
 - react-leaflet
 - react-paginate
 
-<img src="Radar.gif" /># Tolkit-Thunk-Radar
+<img src="Radar.gif" />
